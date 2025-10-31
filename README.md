@@ -18,7 +18,7 @@ A unique feature of the game is its "Mega Man"-style camera, which transitions b
 ### Installation and Build
 1. Clone the repository:
 ```bash
-git clone https://your-repository-url/katharsis.git
+git clone https://github.com/Volterith/Katharsis.git
 cd katharsis
 ```
 2. Install dependencies:
