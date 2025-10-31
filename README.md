@@ -10,6 +10,8 @@ You play as a nameless hero, sent from "on high" into a grim forest. Your missio
 
 A unique feature of the game is its "Mega Man"-style camera, which transitions between screens, creating the feel of distinct rooms and battle arenas.
 
+(At the moment, the game is only in Russian, but other languages ​​will appear later.)
+
 ## Building
 ### Requirements
 - Python 3.x
